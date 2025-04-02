@@ -1,0 +1,38 @@
+[
+    {
+        "id": "questions_1000",
+        "name": "1000 Câu hỏi vì sao",
+        "desc": "Thử thách bản thân với những câu hỏi thuộc nhiều lĩnh vực",
+        "file": "files/questions_1000.dxt",
+        "version": "1.0.0",
+        "logo": "images/questions_1000.png",
+        "enabled": true
+    },
+    {
+        "id": "questions_animals",
+        "name": "Động vật",
+        "desc": "Thử thách bản thân với những câu hỏi về các loài động vật",
+        "file": "files/question_animals.dxt",
+        "version": "1.0.0",
+        "logo": "images/questions_animals.png",
+        "enabled": true
+    },
+    {
+        "id": "questions_art",
+        "name": "Nghệ thuật",
+        "desc": "Thử thách bản thân với những câu hỏi về nghệ thuật",
+        "file": "files/questions_art.dxt",
+        "version": "1.0.0",
+        "logo": "images/questions_art.png",
+        "enabled": true
+    },
+    {
+        "id": "questions_plants",
+        "name": "Động vật",
+        "desc": "Thử thách bản thân với những câu hỏi về các loài cây",
+        "file": "files/questions_plants.dxt",
+        "version": "1.0.0",
+        "logo": "images/questions_plants.png",
+        "enabled": true
+    }
+]

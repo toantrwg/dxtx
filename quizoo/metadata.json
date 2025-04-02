@@ -1,0 +1,8 @@
+{
+    "version": "0.0.1",
+    "running": true,
+    "error": {
+        "title": "We have a problem",
+        "message": "It will be fixed soon"
+    }
+}
